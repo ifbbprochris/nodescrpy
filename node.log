@@ -1,0 +1,540 @@
+[2015-11-30 17:50:06.801] [INFO] log_file - status:=200
+[2015-11-30 17:50:06.856] [INFO] log_file - { msg: 'success',
+  depart_time: '12:50',
+  arrival_time: '14:55',
+  depart_city: '哈尔滨太平国际机场',
+  arrival_city: '北京首都国际机场',
+  flight_style: 'JET' }
+[2015-12-01 16:43:14.480] [INFO] log_file - status:=200
+[2015-12-01 16:43:14.546] [INFO] log_file - { msg: 'success',
+  depart_time: '',
+  arrival_time: '',
+  depart_city: '',
+  arrival_city: '',
+  flight_style: '' }
+[2015-12-01 16:43:21.753] [INFO] log_file - status:=200
+[2015-12-01 16:43:21.778] [INFO] log_file - { msg: 'success',
+  depart_time: '',
+  arrival_time: '',
+  depart_city: '',
+  arrival_city: '',
+  flight_style: '' }
+[2015-12-01 16:43:47.097] [INFO] log_file - status:=200
+[2015-12-01 16:43:47.109] [INFO] log_file - { msg: 'success',
+  depart_time: '15:00',
+  arrival_time: '18:55',
+  depart_city: '海口美兰国际机场',
+  arrival_city: '北京首都国际机场',
+  flight_style: 'JET' }
+[2015-12-01 16:44:07.897] [INFO] log_file - status:=200
+[2015-12-01 16:44:07.928] [INFO] log_file - { msg: 'success',
+  depart_time: '15:00',
+  arrival_time: '18:55',
+  depart_city: '海口美兰国际机场',
+  arrival_city: '北京首都国际机场',
+  flight_style: 'JET' }
+[2015-12-01 16:51:19.743] [INFO] log_file - status:=200
+[2015-12-01 16:51:19.772] [INFO] log_file - { msg: 'success',
+  depart_time: '15:00',
+  arrival_time: '18:55',
+  depart_city: '海口美兰国际机场',
+  arrival_city: '北京首都国际机场',
+  flight_style: 'JET' }
+[2015-12-01 16:52:04.906] [INFO] log_file - status:=200
+[2015-12-01 16:53:34.976] [INFO] log_file - status:=200
+[2015-12-01 16:53:42.060] [INFO] log_file - { msg: 'success',
+  depart_time: '15:00',
+  arrival_time: '18:55',
+  depart_city: '北京首都国际机场',
+  arrival_city: '海口美兰国际机场',
+  flight_style: 'JET' }
+[2015-12-01 17:18:30.164] [INFO] log_file - status:=200
+[2015-12-01 17:18:30.199] [INFO] log_file - { msg: 'success',
+  depart_time: '15:00',
+  arrival_time: '18:55',
+  depart_city: '北京首都国际机场',
+  arrival_city: '海口美兰国际机场',
+  flight_style: 'JET' }
+[2015-12-01 19:29:23.989] [INFO] log_file - status:=200
+[2015-12-01 19:29:24.040] [INFO] log_file - { msg: 'success',
+  depart_time: '12:50',
+  arrival_time: '14:55',
+  depart_city: '北京首都国际机场',
+  arrival_city: '哈尔滨太平国际机场',
+  flight_style: 'JET' }
+[2015-12-01 19:29:30.791] [INFO] log_file - status:=200
+[2015-12-01 19:29:30.804] [INFO] log_file - { msg: 'success',
+  depart_time: '15:00',
+  arrival_time: '18:55',
+  depart_city: '北京首都国际机场',
+  arrival_city: '海口美兰国际机场',
+  flight_style: 'JET' }
+[2015-12-01 19:29:36.327] [INFO] log_file - status:=200
+[2015-12-01 19:29:36.364] [INFO] log_file - { msg: 'success',
+  depart_time: '15:00',
+  arrival_time: '18:55',
+  depart_city: '北京首都国际机场',
+  arrival_city: '海口美兰国际机场',
+  flight_style: 'JET' }
+[2015-12-01 19:40:29.634] [INFO] log_file - status:=200
+[2015-12-01 19:41:30.722] [INFO] log_file - status:=200
+[2015-12-01 19:43:42.399] [INFO] log_file - status:=200
+[2015-12-01 19:45:25.472] [INFO] log_file - status:=200
+[2015-12-01 19:46:49.400] [INFO] log_file - status:=200
+[2015-12-01 19:49:41.678] [INFO] log_file - status:=200
+[2015-12-01 19:51:28.939] [INFO] log_file - status:=200
+[2015-12-01 19:52:15.376] [INFO] log_file - status:=200
+[2015-12-01 19:52:45.962] [INFO] log_file - status:=200
+[2015-12-01 19:53:49.817] [INFO] log_file - status:=200
+[2015-12-01 19:54:11.200] [INFO] log_file - status:=200
+[2015-12-01 19:54:40.317] [INFO] log_file - status:=200
+[2015-12-01 19:56:06.603] [INFO] log_file - status:=200
+[2015-12-01 19:56:43.607] [INFO] log_file - status:=200
+[2015-12-01 19:58:12.682] [INFO] log_file - status:=200
+[2015-12-07 10:02:14.137] [INFO] log_file - status:=200
+[2015-12-07 10:02:58.866] [INFO] log_file - { msg: 'success',
+  depart_time: '12:50',
+  arrival_time: '14:55',
+  depart_city: '北京首都国际机场',
+  arrival_city: '哈尔滨太平国际机场',
+  flight_style: 'JET',
+  flight_company: '中国国际航空公司)' }
+[2015-12-07 10:04:29.502] [INFO] log_file - status:=200
+[2015-12-07 10:04:42.772] [INFO] log_file - { msg: 'success',
+  depart_time: '12:50',
+  arrival_time: '14:55',
+  depart_city: '北京首都国际机场',
+  arrival_city: '哈尔滨太平国际机场',
+  flight_style: 'JET',
+  flight_company: '中国国际航空公司)' }
+[2015-12-07 10:05:14.532] [INFO] log_file - status:=200
+[2015-12-07 10:05:25.922] [INFO] log_file - { msg: 'success',
+  depart_time: '12:50',
+  arrival_time: '14:55',
+  depart_city: '北京首都国际机场',
+  arrival_city: '哈尔滨太平国际机场',
+  flight_style: 'JET',
+  flight_company: '中国国际航空公司)' }
+[2015-12-07 10:07:04.003] [INFO] log_file - status:=200
+[2015-12-07 10:07:14.194] [INFO] log_file - { msg: 'success',
+  depart_time: '12:50',
+  arrival_time: '14:55',
+  depart_city: '北京首都国际机场',
+  arrival_city: '哈尔滨太平国际机场',
+  flight_style: 'JET',
+  flight_company: '中国国际航空公' }
+[2015-12-07 10:07:24.283] [INFO] log_file - status:=200
+[2015-12-07 10:08:14.888] [INFO] log_file - status:=200
+[2015-12-07 10:08:24.928] [INFO] log_file - { msg: 'success',
+  depart_time: '15:00',
+  arrival_time: '18:55',
+  depart_city: '北京首都国际机场',
+  arrival_city: '海口美兰国际机场',
+  flight_style: 'JET',
+  flight_company: '中国厦门航空公司' }
+[2015-12-07 10:13:43.886] [INFO] log_file - status:=200
+[2015-12-07 10:13:43.953] [INFO] log_file - { msg: 'success',
+  depart_time: '15:00',
+  arrival_time: '18:55',
+  depart_city: '北京首都国际机场',
+  arrival_city: '海口美兰国际机场',
+  flight_style: 'JET',
+  flight_company: '中国厦门航空公司' }
+[2015-12-07 10:29:26.530] [INFO] log_file - status:=200
+[2015-12-07 10:29:26.557] [INFO] log_file - { msg: 'success',
+  depart_time: '07:55',
+  arrival_time: '12:25',
+  depart_city: '海口美兰国际机场',
+  arrival_city: '天津滨海国际机场',
+  flight_style: 'JET',
+  flight_company: '天津航空有限责任公司' }
+[2015-12-09 11:19:58.666] [INFO] log_file - status:=200
+[2015-12-14 17:02:59.520] [INFO] log_file - response.statusCode:=200
+[2015-12-14 17:08:01.627] [INFO] log_file - { msg: 'success',
+  depart_time: '12:50',
+  arrival_time: '14:55',
+  depart_city: '北京首都国际机场',
+  arrival_city: '哈尔滨太平国际机场',
+  flight_style: 'JET',
+  flight_company: '中国国际航空公司' }
+[2015-12-14 17:08:31.710] [INFO] log_file - response.statusCode:=200
+[2015-12-14 17:08:35.923] [INFO] log_file - { msg: 'success',
+  depart_time: '12:50',
+  arrival_time: '14:55',
+  depart_city: '北京首都国际机场',
+  arrival_city: '哈尔滨太平国际机场',
+  flight_style: 'JET',
+  flight_company: '中国国际航空公司' }
+[2015-12-14 17:13:14.037] [INFO] log_file - response.statusCode:=200
+[2015-12-14 17:13:14.078] [INFO] log_file - { depart_time: '12:50',
+  arrival_time: '14:55',
+  depart_city: '北京首都国际机场',
+  arrival_city: '哈尔滨太平国际机场',
+  flight_style: 'JET',
+  flight_company: '中国国际航空公司' }
+[2015-12-14 18:00:57.523] [INFO] log_file - redis connected success listen on 127.0.0.1:6379
+[2015-12-14 18:01:43.479] [INFO] log_file - redis connected success listen on 127.0.0.1:6379
+[2015-12-14 18:07:28.538] [INFO] log_file - redis connected success listen on 127.0.0.1:6379
+[2015-12-14 18:09:28.912] [INFO] log_file - redis connected success listen on 127.0.0.1:6379
+[2015-12-14 18:12:14.130] [INFO] log_file - redis connected success listen on 127.0.0.1:6379
+[2015-12-14 18:20:50.166] [INFO] log_file - redis connected success listen on 127.0.0.1:6379
+[2015-12-14 18:21:18.207] [INFO] log_file - redis connected success listen on 127.0.0.1:6379
+[2015-12-14 18:23:17.069] [INFO] log_file - redis connected success listen on 127.0.0.1:6379
+[2015-12-14 18:24:28.944] [INFO] log_file - redis connected success listen on 127.0.0.1:6379
+[2015-12-14 18:25:56.249] [INFO] log_file - redis connected success listen on 127.0.0.1:6379
+[2015-12-14 18:27:12.722] [INFO] log_file - redis connected success listen on 127.0.0.1:6379
+[2015-12-14 18:27:37.906] [INFO] log_file - redis connected success listen on 127.0.0.1:6379
+[2015-12-14 18:27:39.961] [INFO] log_file - response.statusCode:=200
+[2015-12-14 18:27:40.038] [INFO] log_file - { depart_time: '12:50',
+  arrival_time: '14:55',
+  depart_city: '北京首都国际机场',
+  arrival_city: '哈尔滨太平国际机场',
+  flight_style: 'JET',
+  flight_company: '中国国际航空公司' }
+[2015-12-14 18:27:50.448] [INFO] log_file - repy from redis set a valueOK
+[2015-12-14 18:29:08.954] [INFO] log_file - redis connected success listen on 127.0.0.1:6379
+[2015-12-14 18:30:03.320] [INFO] log_file - redis connected success listen on 127.0.0.1:6379
+[2015-12-14 18:30:26.008] [INFO] log_file - response.statusCode:=200
+[2015-12-14 18:30:26.122] [INFO] log_file - { depart_time: '12:50',
+  arrival_time: '14:55',
+  depart_city: '北京首都国际机场',
+  arrival_city: '哈尔滨太平国际机场',
+  flight_style: 'JET',
+  flight_company: '中国国际航空公司' }
+[2015-12-14 18:30:47.471] [INFO] log_file - repy from redis set a valueOK
+[2015-12-14 18:32:50.031] [INFO] log_file - redis connected success listen on 127.0.0.1:6379
+[2015-12-14 18:42:23.116] [INFO] log_file - redis connected success listen on 127.0.0.1:6379
+[2015-12-14 18:43:19.371] [INFO] log_file - redis connected success listen on 127.0.0.1:6379
+[2015-12-14 18:49:46.589] [INFO] log_file - redis connected success listen on 127.0.0.1:6379
+[2015-12-14 18:50:03.265] [INFO] log_file - response.statusCode:=200
+[2015-12-14 18:50:03.369] [INFO] log_file - { depart_time: '12:50',
+  arrival_time: '14:55',
+  depart_city: '北京首都国际机场',
+  arrival_city: '哈尔滨太平国际机场',
+  flight_style: 'JET',
+  flight_company: '中国国际航空公司' }
+[2015-12-14 18:50:19.536] [INFO] log_file - repy from redis set a valueOK
+[2015-12-14 18:51:14.175] [INFO] log_file - redis connected success listen on 127.0.0.1:6379
+[2015-12-14 19:01:26.854] [INFO] log_file - redis connected success listen on 127.0.0.1:6379
+[2015-12-14 19:01:45.985] [INFO] log_file - response.statusCode:=200
+[2015-12-14 19:01:46.074] [INFO] log_file - { depart_time: '15:00',
+  arrival_time: '18:55',
+  depart_city: '北京首都国际机场',
+  arrival_city: '海口美兰国际机场',
+  flight_style: 'JET',
+  flight_company: '中国厦门航空公司' }
+[2015-12-14 19:10:55.676] [INFO] log_file - redis connected success listen on 127.0.0.1:6379
+[2015-12-14 19:11:12.629] [INFO] log_file - response.statusCode:=200
+[2015-12-14 19:11:12.733] [INFO] log_file - { depart_time: '15:00',
+  arrival_time: '18:55',
+  depart_city: '北京首都国际机场',
+  arrival_city: '海口美兰国际机场',
+  flight_style: 'JET',
+  flight_company: '中国厦门航空公司' }
+[2015-12-14 19:18:16.443] [INFO] log_file - redis connected success listen on 127.0.0.1:6379
+[2015-12-14 19:18:51.973] [INFO] log_file - response.statusCode:=200
+[2015-12-14 19:18:52.029] [INFO] log_file - { depart_time: '',
+  arrival_time: '',
+  depart_city: '',
+  arrival_city: '',
+  flight_style: '',
+  flight_company: '' }
+[2015-12-14 19:18:52.033] [INFO] log_file - repy from redis set a valueOK
+[2015-12-18 16:55:49.917] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-18 16:55:51.123] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-18 16:55:52.485] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-18 16:55:54.063] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-18 16:55:56.046] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-18 16:55:58.717] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-18 16:56:02.560] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-18 16:56:08.390] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-18 16:56:17.602] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-18 16:56:32.562] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-18 17:14:06.753] [INFO] log_file - response.statusCode:=200
+[2015-12-22 16:10:27.050] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:10:28.257] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:10:29.599] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:10:31.178] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:10:33.155] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:10:35.826] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:10:39.666] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:10:45.498] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:10:54.711] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:11:09.672] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:11:34.414] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:12:15.757] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:13:25.338] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:15:22.927] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:18:42.125] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:26:19.274] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:26:20.482] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:26:21.823] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:26:23.412] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:26:25.396] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:26:28.068] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:26:31.909] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:26:37.741] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:26:46.953] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:27:01.914] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:27:26.650] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:28:07.993] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:29:02.227] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:29:03.431] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:29:04.772] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:29:06.351] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:29:08.334] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:29:11.014] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:29:14.856] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:29:20.688] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:29:29.901] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:29:44.861] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:30:09.593] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:31:50.854] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:31:52.060] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:31:53.401] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:31:54.980] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:31:56.968] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:31:59.640] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:32:03.483] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:32:09.314] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:32:18.527] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:32:33.483] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:32:58.213] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:33:39.559] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:38:37.850] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:38:39.052] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:38:40.393] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:38:41.972] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:38:43.976] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:38:46.652] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:38:50.493] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:38:56.324] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:39:05.536] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:39:20.506] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:39:45.238] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:40:26.588] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:40:32.946] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:40:34.157] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:40:35.499] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:40:37.087] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:40:39.071] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:40:41.747] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:40:45.589] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:40:51.420] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:41:00.632] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:41:15.592] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:41:44.532] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:41:45.737] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:41:47.078] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:41:48.657] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:41:50.648] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:41:53.319] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:41:57.167] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:42:02.998] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:42:12.216] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:42:26.744] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:42:27.951] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:42:29.298] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:42:30.877] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:42:32.861] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:42:35.533] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:42:39.374] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:42:45.727] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:42:46.933] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:42:48.275] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:42:49.853] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:42:51.833] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:42:54.504] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:42:58.346] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:43:04.177] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:43:13.388] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:43:28.349] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:43:50.451] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:43:51.662] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:43:53.003] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:43:54.592] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:43:56.576] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:43:59.247] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:44:03.088] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:44:08.919] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:44:18.131] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:44:33.093] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:44:57.825] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:52:20.817] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:52:22.033] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:52:23.375] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:52:24.953] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:52:26.934] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:52:29.605] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:52:33.445] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:52:39.275] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:52:48.487] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:53:03.447] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:53:28.179] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:53:34.813] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:53:36.020] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:53:37.361] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:53:38.940] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:53:40.924] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:53:43.596] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:53:47.438] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:53:53.269] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:54:02.481] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:54:17.440] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:54:42.170] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:55:23.513] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:56:07.355] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:56:08.559] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:56:09.899] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:56:11.478] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:56:13.461] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:56:16.136] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:56:19.977] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:56:25.809] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:56:35.021] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:56:49.981] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:57:14.712] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:57:56.056] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 16:59:05.638] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:01:03.226] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:01:59.245] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:02:00.453] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:02:01.795] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:02:03.374] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:02:05.357] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:02:08.029] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:02:11.870] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:02:17.701] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:02:26.914] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:02:41.876] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:03:06.608] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:03:47.949] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:03:54.790] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:03:55.997] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:03:57.341] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:03:58.919] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:04:00.905] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:04:03.579] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:04:07.421] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:04:13.252] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:04:22.463] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:04:37.417] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:05:02.149] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:05:43.492] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:06:53.073] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:13:19.559] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:13:20.766] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:13:22.111] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:13:23.690] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:13:25.669] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:13:28.340] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:13:32.182] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:13:38.014] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:13:44.403] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:13:45.611] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:13:46.952] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:13:48.531] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:13:50.515] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:13:53.187] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:13:57.028] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:14:01.079] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:14:02.288] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:14:03.628] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:14:05.203] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:14:07.196] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:14:09.876] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:14:13.718] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:14:19.550] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:14:28.762] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:14:43.722] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:15:08.453] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:15:49.796] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:16:59.378] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:18:56.970] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:22:16.168] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:27:54.104] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:28:54.847] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:28:56.051] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:28:57.393] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:28:58.971] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:29:00.955] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:29:03.626] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:29:07.468] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:29:13.300] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:29:22.511] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:29:37.471] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:30:02.203] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:30:43.546] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:31:53.138] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:33:50.726] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:35:23.789] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:35:24.997] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:35:26.339] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:35:27.927] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:35:29.907] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:35:32.579] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:35:36.421] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:35:42.262] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:35:53.208] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:35:54.408] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:35:55.750] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:35:57.328] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:35:59.318] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:36:01.991] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:36:05.832] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:36:11.672] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:36:20.884] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:36:35.845] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:37:00.577] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:37:41.918] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:38:51.500] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:39:17.651] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:39:18.856] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:39:20.198] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:39:21.777] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:39:23.761] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:39:26.431] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:39:30.273] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:39:36.105] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:39:45.326] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:40:00.307] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:40:25.048] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:41:06.390] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:41:34.532] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:41:35.737] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:41:37.081] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:41:38.669] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:41:40.652] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:41:43.326] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:41:47.168] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:41:52.999] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:42:02.211] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:42:17.172] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:42:41.902] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:43:23.244] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:44:32.826] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:46:30.416] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:46:50.410] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:46:51.616] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:46:52.963] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:46:54.541] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:46:56.535] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:46:59.214] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:47:03.075] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:47:08.907] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:47:18.120] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:47:33.080] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:47:57.812] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:48:34.713] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:48:35.928] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:48:37.270] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:48:38.849] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:48:40.832] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:48:43.504] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:48:47.346] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:48:53.178] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:49:02.388] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:49:17.349] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:49:42.080] [INFO] log_file - ErrorError: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+[2015-12-22 17:50:22.424] [INFO] log_file - redis connected success listen on 127.0.0.1:6379
+[2015-12-22 17:50:54.059] [INFO] log_file - redis connected success listen on 127.0.0.1:6379
